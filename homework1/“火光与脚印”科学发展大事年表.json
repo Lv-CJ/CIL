@@ -1,0 +1,161 @@
+{
+    "timeline" : {
+        "name" : "“火光与脚印”科学发展大事年表",
+        "description" : "“大学生信息素养”课程作业"
+    },
+
+    "groups" : [
+          ],
+
+    "events" : [
+              {
+          "name" : "中国在这一年开始有日食记录，\n是世界上已知最早的日食记录。",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "-2137 1 7",
+          "group" : ""
+        },
+              {
+          "name" : "美索不达米亚人制乘法表，\n使用60进位制，\n将五个行星从恒星中划出。",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "-2100 2 1",
+          "group" : ""
+        },
+              {
+          "name" : "公元前2000年前后，\n古埃及人使用十进位制计数法、\n三角形及圆的面积、棱台的体积的度量法。",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "-2000 1 1",
+          "group" : ""
+        },
+              {
+          "name" : "割圆术\n刘徽",
+          "description" : "公元三世纪中期，刘徽首创割圆术。",
+          "tagsCsv" : "",
+          "time" : "249 12 1",
+          "group" : ""
+        },
+              {
+          "name" : "杨辉三角\n是中国数学史上的一个伟大成就。",
+          "description" : "杨辉在《九章算数》提出。",
+          "tagsCsv" : "",
+          "time" : "1261 9 1",
+          "group" : ""
+        },
+              {
+          "name" : "华罗庚：华罗庚猜想（中国剩余定理）",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1947 1 1",
+          "group" : ""
+        },
+              {
+          "name" : "张益唐：《有界间距内的孤立素数对存在》的论文中提出了孤立素数对猜想。",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "2013 1 1",
+          "group" : ""
+        }    ],
+
+    "periods" : [
+              {
+          "name" : "古代中国\nAncient China",
+          "description" : "",
+          "tagsCsv" : "",
+          "timeFrom" : "-2140 1 1",
+          "timeTo" : "1840 1 1",
+          "group" : ""
+        },
+              {
+          "name" : "祖冲之计算圆周率",
+          "description" : "464年开始，480年左右算出",
+          "tagsCsv" : "",
+          "timeFrom" : "464 1 1",
+          "timeTo" : "480 1 1",
+          "group" : ""
+        },
+              {
+          "name" : "中世纪时期\nMedieval period\n毕达哥拉斯：勾股定理；\n斐波那契：兔子数列：",
+          "description" : "",
+          "tagsCsv" : "",
+          "timeFrom" : "500 1 1",
+          "timeTo" : "1500 1 1",
+          "group" : ""
+        },
+              {
+          "name" : "文艺复兴时期：\n雷乔蒙塔努斯：数学与透视学的结合；\n卡尔达诺：代数学（解出了三次和四次方程）；\n笛卡尔：解析几何的开创者；\nRenaissance period：\nLeone Battista Alberti: The combination of mathematics and perspective;\nCardano: Algebra (solved cubic and quartic equations);\nDescartes: The founder of analytic geometry;",
+          "description" : "",
+          "tagsCsv" : "",
+          "timeFrom" : "1300 1 1",
+          "timeTo" : "1607 1 1",
+          "group" : ""
+        },
+              {
+          "name" : "科学革命时期：\n伊萨克·牛顿和戈特弗里德·莱布尼茨:微积分的发展；\n帕斯卡和费马：概率论的的奠基；\nDuring the period of the Scientific Revolution：\n Isaac Newton and Gottfried Leibniz: the development of calculus; \nBlaise Pascal and Pierre de Fermat: laying the foundation of probability theory.",
+          "description" : "",
+          "tagsCsv" : "",
+          "timeFrom" : "1550 1 1",
+          "timeTo" : "1770 1 1",
+          "group" : ""
+        },
+              {
+          "name" : "工业革命时期：\n欧拉：数学分析的发展；\n盖尔和凯尔西：线性代数的发展；\n拉普拉斯和高斯：概率论和统计学的进一步发展；\nDuring the Industrial Revolution：\nLeonhard Euler: the development of mathematical analysis；\nCarl Friedrich Gauss and Augustin-Louis Cauchy: the advancement of linear algebra；\nPierre-Simon Laplace and Gauss: the further development of probability theory and statistics.",
+          "description" : "",
+          "tagsCsv" : "",
+          "timeFrom" : "1700 1 1",
+          "timeTo" : "1850 1 1",
+          "group" : ""
+        },
+              {
+          "name" : "近代中国\nContemporary China",
+          "description" : "",
+          "tagsCsv" : "",
+          "timeFrom" : "1840 1 1",
+          "timeTo" : "1949 1 1",
+          "group" : ""
+        },
+              {
+          "name" : "现代科学时期：\n罗素和怀特海：数理逻辑的发展；\n埃米尔·阿尔蒂和冯·诺依曼：抽象代数的兴起；\nModern scientific era：\nBertrand Russell and Alfred North Whitehead: the development of mathematical logic;\nEmmy Noether and John von Neumann: the rise of abstract algebra;",
+          "description" : "",
+          "tagsCsv" : "",
+          "timeFrom" : "1849 1 1",
+          "timeTo" : "2050 1 1",
+          "group" : ""
+        },
+              {
+          "name" : "现代中国\nModern China\n陈省身与丘成桐：合证了高维黎曼流形的正向可定理论；",
+          "description" : "",
+          "tagsCsv" : "",
+          "timeFrom" : "1949 1 1",
+          "timeTo" : "2050 1 1",
+          "group" : ""
+        }    ],
+
+    "progresses" : [
+          ],
+
+    "statistics" : [
+          ],
+
+    "statisticsYandexMetrika" : [
+          ],
+
+    "statisticsGoogleAnalytics" : [
+          ],
+
+    "reportingAPIs" : [
+          ],
+
+    "tags" : [
+              {
+          "id" : "192373",
+          "name" : "《莫斯科纸草书》",
+          "color" : "#9729F4"
+        },
+              {
+          "id" : "192374",
+          "name" : "New tag",
+          "color" : "#6B80FC"
+        }    ]
+}

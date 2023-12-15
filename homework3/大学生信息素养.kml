@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>大学生信息素养</name>
+	<gx:CascadingStyle kml:id="__managed_style_2E06354EE62D9936452F">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=66bb6a&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_17BD9DE39C2D9936452F">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=66bb6a&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_04C0DB012E2D9936452F">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_17BD9DE39C2D9936452F</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2E06354EE62D9936452F</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_2A9ED530282D993507BF">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=ef5350&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1EF28F4DB72D993507BF">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=ef5350&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0D9094B2AE2D993507BF">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1EF28F4DB72D993507BF</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2A9ED530282D993507BF</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="09287190B02D9907B3B5">
+		<name>塞罕坝</name>
+		<description><![CDATA[<div class="lemmaSummary_vAlN5 J-summary" style="box-sizing: content-box; margin: 10px 0px 15px; padding: 0px; overflow-wrap: break-word; zoom: 1; clear: both; color: rgb(51, 51, 51); font-size: 14px; line-height: 24px; position: relative; text-indent: 2em; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;WenQuanYi Micro Hei&quot;, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><div class="para_Jcdql summary_crIqK MARK_MODULE" style="box-sizing: content-box; margin: 0px 0px 15px; padding: 0px; overflow-wrap: break-word; zoom: 1; color: rgb(51, 51, 51); font-size: 14px; line-height: 24px; text-indent: 2em;"><div class="para_Jcdql summary_crIqK MARK_MODULE" style="box-sizing: content-box; margin: 0px 0px 15px; padding: 0px; overflow-wrap: break-word; zoom: 1; color: rgb(51, 51, 51); font-size: 14px; line-height: 24px; text-indent: 2em;"><span class="text_TBaN4" style="box-sizing: content-box; margin: 0px; padding: 0px; position: relative;">塞罕坝，属<a class="innerLink_NfWbi" href="https://baike.baidu.com/item/%E5%9C%B0%E5%9F%9F/4437973?fromModule=lemma_inlink" target="_blank" style="box-sizing: content-box; margin: 0px; padding: 0px; color: rgb(19, 110, 194); text-decoration: none;">地域</a>概念，特指<a class="innerLink_NfWbi" href="https://baike.baidu.com/item/%E6%B2%B3%E5%8C%97%E7%9C%81/153775?fromModule=lemma_inlink" target="_blank" style="box-sizing: content-box; margin: 0px; padding: 0px; color: rgb(19, 110, 194); text-decoration: none;">河北省</a><a class="innerLink_NfWbi" href="https://baike.baidu.com/item/%E6%89%BF%E5%BE%B7%E5%B8%82/13022361?fromModule=lemma_inlink" target="_blank" style="box-sizing: content-box; margin: 0px; padding: 0px; color: rgb(19, 110, 194); text-decoration: none;">承德市</a><a class="innerLink_NfWbi" href="https://baike.baidu.com/item/%E5%9B%B4%E5%9C%BA%E6%BB%A1%E6%97%8F%E8%92%99%E5%8F%A4%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8E%BF/803440?fromModule=lemma_inlink" target="_blank" style="box-sizing: content-box; margin: 0px; padding: 0px; color: rgb(19, 110, 194); text-decoration: none;">围场满族蒙古族自治县</a><a class="innerLink_NfWbi" href="https://baike.baidu.com/item/%E5%9D%9D%E4%B8%8A/10869479?fromModule=lemma_inlink" target="_blank" style="box-sizing: content-box; margin: 0px; padding: 0px; color: rgb(19, 110, 194); text-decoration: none;">坝上</a>区域，广义包括<a class="innerLink_NfWbi" href="https://baike.baidu.com/item/%E5%A1%9E%E7%BD%95%E5%9D%9D%E6%9C%BA%E6%A2%B0%E6%9E%97%E5%9C%BA/9502705?fromModule=lemma_inlink" target="_blank" style="box-sizing: content-box; margin: 0px; padding: 0px; color: rgb(19, 110, 194); text-decoration: none;">塞罕坝机械林场</a>、<a class="innerLink_NfWbi" href="https://baike.baidu.com/item/%E5%BE%A1%E9%81%93%E5%8F%A3%E7%89%A7%E5%9C%BA/10490328?fromModule=lemma_inlink" target="_blank" style="box-sizing: content-box; margin: 0px; padding: 0px; color: rgb(19, 110, 194); text-decoration: none;">御道口牧场</a>、<a class="innerLink_NfWbi" href="https://baike.baidu.com/item/%E7%BA%A2%E5%B1%B1%E5%86%9B%E9%A9%AC%E5%9C%BA/9503178?fromModule=lemma_inlink" target="_blank" style="box-sizing: content-box; margin: 0px; padding: 0px; color: rgb(19, 110, 194); text-decoration: none;">红山军马场</a>、<a class="innerLink_NfWbi" href="https://baike.baidu.com/item/%E7%BA%A2%E6%9D%BE%E6%B4%BC%E8%87%AA%E7%84%B6%E4%BF%9D%E6%8A%A4%E5%8C%BA/2151532?fromModule=lemma_inlink" target="_blank" style="box-sizing: content-box; margin: 0px; padding: 0px; color: rgb(19, 110, 194); text-decoration: none;">红松洼自然保护区</a>、<a class="innerLink_NfWbi" href="https://baike.baidu.com/item/%E4%B9%8C%E5%85%B0%E5%B8%83%E7%BB%9F%E8%87%AA%E7%84%B6%E4%BF%9D%E6%8A%A4%E5%8C%BA/16607365?fromModule=lemma_inlink" target="_blank" style="box-sizing: content-box; margin: 0px; padding: 0px; color: rgb(19, 110, 194); text-decoration: none;">乌兰布统自然保护区</a>分属不同行政系统。</span><span class="supWrap_yiG6W J-supWrap" style="box-sizing: content-box; margin: 0px; padding: 0px; cursor: pointer; display: inline; position: relative;"><sup style="box-sizing: content-box; margin: 0px 0px 0px 2px; padding: 0px 2px; color: rgb(51, 102, 204); cursor: pointer; position: relative; top: -0.5em; vertical-align: baseline; white-space: nowrap;"><span>&nbsp;</span></sup></span><span class="text_TBaN4" style="box-sizing: content-box; margin: 0px; padding: 0px; position: relative;">塞罕坝位于<a class="innerLink_NfWbi" href="https://baike.baidu.com/item/%E5%86%85%E8%92%99%E5%8F%A4%E9%AB%98%E5%8E%9F/1648392?fromModule=lemma_inlink" target="_blank" style="box-sizing: content-box; margin: 0px; padding: 0px; color: rgb(19, 110, 194); text-decoration: none;">内蒙古高原</a>的东南缘，地跨<a class="innerLink_NfWbi" href="https://baike.baidu.com/item/%E8%92%99%E5%8F%A4%E9%AB%98%E5%8E%9F/555134?fromModule=lemma_inlink" target="_blank" style="box-sizing: content-box; margin: 0px; padding: 0px; color: rgb(19, 110, 194); text-decoration: none;">蒙古高原</a>的南部边缘，处于<a class="innerLink_NfWbi" href="https://baike.baidu.com/item/%E9%98%B4%E5%B1%B1%E5%B1%B1%E8%84%89/175382?fromModule=lemma_inlink" target="_blank" style="box-sizing: content-box; margin: 0px; padding: 0px; color: rgb(19, 110, 194); text-decoration: none;">阴山山脉</a>东端、<a class="innerLink_NfWbi" href="https://baike.baidu.com/item/%E5%A4%A7%E5%85%B4%E5%AE%89%E5%B2%AD%E5%B1%B1%E8%84%89/7652527?fromModule=lemma_inlink" target="_blank" style="box-sizing: content-box; margin: 0px; padding: 0px; color: rgb(19, 110, 194); text-decoration: none;">大兴安岭山脉</a>南端、<a class="innerLink_NfWbi" href="https://baike.baidu.com/item/%E7%87%95%E5%B1%B1%E5%B1%B1%E8%84%89/822178?fromModule=lemma_inlink" target="_blank" style="box-sizing: content-box; margin: 0px; padding: 0px; color: rgb(19, 110, 194); text-decoration: none;">燕山山脉</a>西北端汇合处，主要是高原台地。“塞罕”是蒙语，意为美丽；“坝”是汉语，意为高岭，全名可译为“美丽的高岭”。</span><span class="supWrap_yiG6W J-supWrap" style="box-sizing: content-box; margin: 0px; padding: 0px; cursor: pointer; display: inline; position: relative;"><sup style="box-sizing: content-box; margin: 0px 0px 0px 2px; padding: 0px 2px; color: rgb(51, 102, 204); cursor: pointer; position: relative; top: -0.5em; vertical-align: baseline; white-space: nowrap;"><span>&nbsp;</span></sup></span><br></div><div class="para_Jcdql summary_crIqK MARK_MODULE" style="box-sizing: content-box; margin: 0px 0px 15px; padding: 0px; overflow-wrap: break-word; zoom: 1; color: rgb(51, 51, 51); font-size: 14px; line-height: 24px; text-indent: 2em;"><span class="text_TBaN4" style="box-sizing: content-box; margin: 0px; padding: 0px; position: relative;">塞罕坝属清朝皇家猎苑——<a class="innerLink_NfWbi" href="https://baike.baidu.com/item/%E6%9C%A8%E5%85%B0%E5%9B%B4%E5%9C%BA/357718?fromModule=lemma_inlink" target="_blank" style="box-sizing: content-box; margin: 0px; padding: 0px; color: rgb(19, 110, 194); text-decoration: none;">木兰围场</a>的一部分</span><span class="supWrap_yiG6W J-supWrap" style="box-sizing: content-box; margin: 0px; padding: 0px; cursor: pointer; display: inline; position: relative;"><sup style="box-sizing: content-box; margin: 0px 0px 0px 2px; padding: 0px 2px; color: rgb(51, 102, 204); cursor: pointer; position: relative; top: -0.5em; vertical-align: baseline; white-space: nowrap;"><span>&nbsp;</span></sup></span><span class="text_TBaN4" style="box-sizing: content-box; margin: 0px; padding: 0px; position: relative;">（“木兰围场”的满语名称“木兰辉罕”，汉译为“哨鹿设围狩猎之地”</span><span class="supWrap_yiG6W J-supWrap" style="box-sizing: content-box; margin: 0px; padding: 0px; cursor: pointer; display: inline; position: relative;"><sup style="box-sizing: content-box; margin: 0px 0px 0px 2px; padding: 0px 2px; color: rgb(51, 102, 204); cursor: pointer; position: relative; top: -0.5em; vertical-align: baseline; white-space: nowrap;"><span>&nbsp;</span></sup></span><span class="text_TBaN4" style="box-sizing: content-box; margin: 0px; padding: 0px; position: relative;">）。历史上的塞罕坝是一处水草丰沛、森林茂密、禽兽繁集的地方，在辽、金时期称作“千里松林”，曾作为皇帝狩猎之所，被誉为“水的源头、云的故乡、花的世界、林的海洋”，主要景点：<a class="innerLink_NfWbi" href="https://baike.baidu.com/item/%E5%A1%9E%E7%BD%95%E5%9D%9D%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/2836428?fromModule=lemma_inlink" target="_blank" style="box-sizing: content-box; margin: 0px; padding: 0px; color: rgb(19, 110, 194); text-decoration: none;">塞罕坝国家森林公园</a>、<a class="innerLink_NfWbi" href="https://baike.baidu.com/item/%E5%A1%9E%E7%BD%95%E5%9D%9D%E8%8D%89%E5%8E%9F/12583237?fromModule=lemma_inlink" target="_blank" style="box-sizing: content-box; margin: 0px; padding: 0px; color: rgb(19, 110, 194); text-decoration: none;">塞罕坝草原</a>、<a class="innerLink_NfWbi" href="https://baike.baidu.com/item/%E4%B8%83%E6%98%9F%E6%B9%96%E6%B9%BF%E5%9C%B0%E5%85%AC%E5%9B%AD/15466855?fromModule=lemma_inlink" target="_blank" style="box-sizing: content-box; margin: 0px; padding: 0px; color: rgb(19, 110, 194); text-decoration: none;">七星湖湿地公园</a>、<a class="innerLink_NfWbi" href="https://baike.baidu.com/item/%E5%A1%9E%E7%BD%95%E5%A1%94/765590?fromModule=lemma_inlink" target="_blank" style="box-sizing: content-box; margin: 0px; padding: 0px; color: rgb(19, 110, 194); text-decoration: none;">塞罕塔</a>、<a class="innerLink_NfWbi" href="https://baike.baidu.com/item/%E6%B3%B0%E4%B8%B0%E6%B9%96/15609954?fromModule=lemma_inlink" target="_blank" style="box-sizing: content-box; margin: 0px; padding: 0px; color: rgb(19, 110, 194); text-decoration: none;">泰丰湖</a>、<a class="innerLink_NfWbi" href="https://baike.baidu.com/item/%E6%9C%88%E4%BA%AE%E6%B9%96/2044938?fromModule=lemma_inlink" target="_blank" style="box-sizing: content-box; margin: 0px; padding: 0px; color: rgb(19, 110, 194); text-decoration: none;">月亮湖</a>、<a class="innerLink_NfWbi" href="https://baike.baidu.com/item/%E7%BA%A2%E6%9D%BE%E6%B4%BC%E8%87%AA%E7%84%B6%E4%BF%9D%E6%8A%A4%E5%8C%BA/2151532?fromModule=lemma_inlink" target="_blank" style="box-sizing: content-box; margin: 0px; padding: 0px; color: rgb(19, 110, 194); text-decoration: none;">红松洼自然保护区</a>。</span><br></div></div></div><div><div class="para_Jcdql summary_crIqK MARK_MODULE" style="box-sizing: content-box; margin: 0px 0px 15px; padding: 0px; overflow-wrap: break-word; zoom: 1; color: rgb(51, 51, 51); font-size: 14px; line-height: 24px; text-indent: 2em;"><div class="para_Jcdql summary_crIqK MARK_MODULE" style="box-sizing: content-box; margin: 0px 0px 15px; padding: 0px; overflow-wrap: break-word; zoom: 1; color: rgb(51, 51, 51); font-size: 14px; line-height: 24px; text-indent: 2em;"><span class="text_TBaN4" style="box-sizing: content-box; margin: 0px; padding: 0px; position: relative;">1993年5月，塞罕坝森林公园被林业部批准为国家级森林公园。</span><span class="text_TBaN4" style="box-sizing: content-box; margin: 0px; padding: 0px; position: relative;">2001年，御道口草原风景区被评为国家风景区。</span><span class="supWrap_yiG6W J-supWrap" style="box-sizing: content-box; margin: 0px; padding: 0px; cursor: pointer; display: inline; position: relative;"><sup style="box-sizing: content-box; margin: 0px 0px 0px 2px; padding: 0px 2px; color: rgb(51, 102, 204); cursor: pointer; position: relative; top: -0.5em; vertical-align: baseline; white-space: nowrap;"><span>&nbsp;</span></sup></span><span class="text_TBaN4" style="box-sizing: content-box; margin: 0px; padding: 0px; position: relative;">2002年，塞罕坝被国家旅游局评定为“国家AAAA级旅游区”。</span><span class="supWrap_yiG6W J-supWrap" style="box-sizing: content-box; margin: 0px; padding: 0px; cursor: pointer; display: inline; position: relative;"><sup style="box-sizing: content-box; margin: 0px 0px 0px 2px; padding: 0px 2px; color: rgb(51, 102, 204); cursor: pointer; position: relative; top: -0.5em; vertical-align: baseline; white-space: nowrap;"><span>&nbsp;</span></sup></span><span class="text_TBaN4" style="box-sizing: content-box; margin: 0px; padding: 0px; position: relative;">2005年，御道口草原风景区被评为</span><span class="text_TBaN4" style="box-sizing: content-box; margin: 0px; padding: 0px; position: relative;"><a class="innerLink_NfWbi" href="https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%99%AF%E5%8C%BA/8023708?fromModule=lemma_inlink" target="_blank" style="box-sizing: content-box; margin: 0px; padding: 0px; color: rgb(19, 110, 194); text-decoration: none;">国家AAAA级景区</a></span><span class="text_TBaN4" style="box-sizing: content-box; margin: 0px; padding: 0px; position: relative;">。</span><span class="text_TBaN4" style="box-sizing: content-box; margin: 0px; padding: 0px; position: relative;">2007年5月，塞罕坝自然保护通过国务院审定被批准为</span><span class="text_TBaN4" style="box-sizing: content-box; margin: 0px; padding: 0px; position: relative;"><a class="innerLink_NfWbi" href="https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E7%BA%A7%E8%87%AA%E7%84%B6%E4%BF%9D%E6%8A%A4%E5%8C%BA/7516695?fromModule=lemma_inlink" target="_blank" style="box-sizing: content-box; margin: 0px; padding: 0px; color: rgb(19, 110, 194); text-decoration: none;">国家级自然保护区</a></span><span class="text_TBaN4" style="box-sizing: content-box; margin: 0px; padding: 0px; position: relative;">。</span><span class="supWrap_yiG6W J-supWrap" style="box-sizing: content-box; margin: 0px; padding: 0px; cursor: pointer; display: inline; position: relative;"><sup style="box-sizing: content-box; margin: 0px 0px 0px 2px; padding: 0px 2px; color: rgb(51, 102, 204); cursor: pointer; position: relative; top: -0.5em; vertical-align: baseline; white-space: nowrap;"><span>&nbsp;</span>[3]</sup></span><span class="text_TBaN4" style="box-sizing: content-box; margin: 0px; padding: 0px; position: relative;">2017年12月5日，联合国环境规划署宣布，中国塞罕坝林场建设者获得2017年联合国环保最高荣誉——“</span><span class="text_TBaN4" style="box-sizing: content-box; margin: 0px; padding: 0px; position: relative;"><a class="innerLink_NfWbi" href="https://baike.baidu.com/item/%E5%9C%B0%E7%90%83%E5%8D%AB%E5%A3%AB%E5%A5%96/331189?fromModule=lemma_inlink" target="_blank" style="box-sizing: content-box; margin: 0px; padding: 0px; color: rgb(19, 110, 194); text-decoration: none;">地球卫士奖</a></span><span class="text_TBaN4" style="box-sizing: content-box; margin: 0px; padding: 0px; position: relative;">”。</span><br></div></div><div><a href="https://baike.baidu.com/item/%E5%A1%9E%E7%BD%95%E5%9D%9D/8666656" style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;WenQuanYi Micro Hei&quot;, sans-serif; font-size: 14px; text-indent: 28px;">baike.baidu.com/item/%E5%A1%9E%E7%BD%95%E5%9D%9D/8666656</a><br></div></div>]]></description>
+		<gx:mid>/g/11n8rnt57b</gx:mid>
+		<gx:fid>0x5e1c0c527708f025:0xfab527f6ccc98237</gx:fid>
+		<LookAt>
+			<longitude>117.74502</longitude>
+			<latitude>42.59875945</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3836.112267370382</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D9094B2AE2D993507BF</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>117.74502,42.59876,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DFED3F9682D992FBE27">
+		<name>毛乌素沙漠</name>
+		<description><![CDATA[<div>1950年4月，陕西省政府制定了“东自府谷大昌汉，西到定边盐场堡，营造陕北防沙林带”的规划。<br></div><div>1981年，榆林当地政府又制定政策，提出可将“五荒地”（即荒山、荒沙、荒滩、荒坡、荒沟）划拨给社员，允许长期使用，所植林木归个人所有。1985年，榆林再次放开政策，允许承包国营和集体的荒沙、荒坡地。<br></div><div>毛乌素沙漠的泉主要分布在东缘的窟野河、秃尾河及无定河支流榆溪河的上游，呈北东向带状分布。泉汇集形成了黄河的一级支流窟野河、秃尾河及黄河中游主要补给河流无定河的支流榆溪河。与1994年比较，2015年榆神府区泉的总流量大幅度衰减，主要分布于采空区附近区域，泉的变化与高强度采煤有着直接关系。<br></div><div>通过叠加分析区域自然条件及人类活动特征，中国政府在毛乌素沙区进行三级区划，共3区、7亚区和12小区。三区即黄土高原与鄂尔多斯高原过渡区、毛乌素沙地腹地典型草原区、西鄂尔多斯荒漠草原区。<br></div><div>2003年，榆靖高速通车，是中国首条沙漠高速公路。<br></div><div>2019年5月，中国华能集团负责的“东坑伊当湾100兆瓦光伏电站项目”在榆林市靖边县东坑镇伊当湾村附近动工，推平了3280亩林草地，12月《财经》杂志报道事件引起社会关注，中国华能次日承诺调查事件，如发现事件涉及违规，会停止建设并恢复破坏的植被。之后的调查发现工程确实存在违规情况。<br></div><div>经过70年左右的治理，陕西境内的毛乌素沙漠正在变成绿洲。2020年4月22日，陕西省林业局表示，榆林沙化土地治理率已达93.24%，毛乌素沙漠即将从陕西版图“消失”。之后面对沙漠是否完全消失的争议，后续报道补充了只是控制住沙漠的发展，使地表沙土被植物根系固定，将沙漠恢复数千年前植物覆盖并能自我生态循环的环境仍需要继续治理。<br></div><div><a href="https://zh.wikipedia.org/wiki/%E6%AF%9B%E4%B9%8C%E7%B4%A0%E6%B2%99%E6%BC%A0" style="font-family: sans-serif; font-size: 15.008px;">zh.wikipedia.org/wiki/%E6%AF%9B%E4%B9%8C%E7%B4%A0%E6%B2%99%E6%BC%A0</a><br></div>]]></description>
+		<gx:mid>/g/11n8scmbbb</gx:mid>
+		<gx:fid>0x366dac35d8d4ee4f:0x15427ad3e128c8a1</gx:fid>
+		<LookAt>
+			<longitude>108.88078</longitude>
+			<latitude>37.6583395</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4214.767044138765</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04C0DB012E2D9936452F</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>108.88078,37.65834,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

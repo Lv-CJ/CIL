@@ -1,0 +1,172 @@
+Name:
+“火光与脚印”科学发展大事年表
+Description:
+“大学生信息素养”课程作业
+
+Type: Event
+Name:
+中国在这一年开始有日食记录，
+是世界上已知最早的日食记录。
+Time: -2137 1 7
+TagCsv: 
+
+Type: Event
+Name:
+美索不达米亚人制乘法表，
+使用60进位制，
+将五个行星从恒星中划出。
+Time: -2100 2 1
+TagCsv: 
+
+Type: Event
+Name:
+公元前2000年前后，
+古埃及人使用十进位制计数法、
+三角形及圆的面积、棱台的体积的度量法。
+Time: -2000 1 1
+TagCsv: 
+
+Type: Event
+Name:
+割圆术
+刘徽
+Description:
+公元三世纪中期，刘徽首创割圆术。
+Time: 249 12 1
+TagCsv: 
+
+Type: Event
+Name:
+杨辉三角
+是中国数学史上的一个伟大成就。
+Description:
+杨辉在《九章算数》提出。
+Time: 1261 9 1
+TagCsv: 
+
+Type: Event
+Name:
+华罗庚：华罗庚猜想（中国剩余定理）
+Time: 1947 1 1
+TagCsv: 
+
+Type: Event
+Name:
+张益唐：《有界间距内的孤立素数对存在》的论文中提出了孤立素数对猜想。
+Time: 2013 1 1
+TagCsv: 
+
+
+Type: Period
+Name:
+古代中国
+Ancient China
+Time from: -2140 1 1
+Time to: 1840 1 1
+TagCsv: 
+
+Type: Period
+Name:
+祖冲之计算圆周率
+Description:
+464年开始，480年左右算出
+Time from: 464 1 1
+Time to: 480 1 1
+TagCsv: 
+
+Type: Period
+Name:
+中世纪时期
+Medieval period
+毕达哥拉斯：勾股定理；
+斐波那契：兔子数列：
+Time from: 500 1 1
+Time to: 1500 1 1
+TagCsv: 
+
+Type: Period
+Name:
+文艺复兴时期：
+雷乔蒙塔努斯：数学与透视学的结合；
+卡尔达诺：代数学（解出了三次和四次方程）；
+笛卡尔：解析几何的开创者；
+Renaissance period：
+Leone Battista Alberti: The combination of mathematics and perspective;
+Cardano: Algebra (solved cubic and quartic equations);
+Descartes: The founder of analytic geometry;
+Time from: 1300 1 1
+Time to: 1607 1 1
+TagCsv: 
+
+Type: Period
+Name:
+科学革命时期：
+伊萨克·牛顿和戈特弗里德·莱布尼茨:微积分的发展；
+帕斯卡和费马：概率论的的奠基；
+During the period of the Scientific Revolution：
+ Isaac Newton and Gottfried Leibniz: the development of calculus; 
+Blaise Pascal and Pierre de Fermat: laying the foundation of probability theory.
+Time from: 1550 1 1
+Time to: 1770 1 1
+TagCsv: 
+
+Type: Period
+Name:
+工业革命时期：
+欧拉：数学分析的发展；
+盖尔和凯尔西：线性代数的发展；
+拉普拉斯和高斯：概率论和统计学的进一步发展；
+During the Industrial Revolution：
+Leonhard Euler: the development of mathematical analysis；
+Carl Friedrich Gauss and Augustin-Louis Cauchy: the advancement of linear algebra；
+Pierre-Simon Laplace and Gauss: the further development of probability theory and statistics.
+Time from: 1700 1 1
+Time to: 1850 1 1
+TagCsv: 
+
+Type: Period
+Name:
+近代中国
+Contemporary China
+Time from: 1840 1 1
+Time to: 1949 1 1
+TagCsv: 
+
+Type: Period
+Name:
+现代科学时期：
+罗素和怀特海：数理逻辑的发展；
+埃米尔·阿尔蒂和冯·诺依曼：抽象代数的兴起；
+Modern scientific era：
+Bertrand Russell and Alfred North Whitehead: the development of mathematical logic;
+Emmy Noether and John von Neumann: the rise of abstract algebra;
+Time from: 1849 1 1
+Time to: 2050 1 1
+TagCsv: 
+
+Type: Period
+Name:
+现代中国
+Modern China
+陈省身与丘成桐：合证了高维黎曼流形的正向可定理论；
+Time from: 1949 1 1
+Time to: 2050 1 1
+TagCsv: 
+
+
+
+
+
+
+
+
+Type: Tag
+Id: 192373
+Name: 《莫斯科纸草书》
+Color: #9729F4
+
+Type: Tag
+Id: 192374
+Name: New tag
+Color: #6B80FC
+
